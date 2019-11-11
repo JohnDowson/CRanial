@@ -1,0 +1,13 @@
+name: CRanial-intercourse
+version: 0.1.0
+
+authors:
+  - Ivan Chinenov <ichinenov@at-consulting.ru>
+
+targets:
+  CRanial-intercourse:
+    main: src/CRanial-intercourse.cr
+
+crystal: 0.31.1
+
+license: MIT
